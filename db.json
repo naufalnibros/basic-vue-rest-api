@@ -1,0 +1,61 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "articles": [
+    {
+      "id": 1,
+      "title": "Lorem Ipsum",
+      "content": "Lorem ipsum, atau ringkasnya lipsum, adalah teks standar yang ditempatkan untuk mendemostrasikan elemen grafis atau presentasi visual seperti font, tipografi, dan tata letak"
+    },
+    {
+      "id": 2,
+      "title": "Sit Dolor Amer",
+      "content": "Lorem ipsum, atau ringkasnya lipsum, adalah teks standar yang ditempatkan untuk mendemostrasikan elemen grafis atau presentasi visual seperti font, tipografi, dan tata letak"
+    },
+    {
+      "id": 3,
+      "title": "Belajar Lorem Ipsum",
+      "content": "Lorem ipsum, atau ringkasnya lipsum, adalah teks standar yang ditempatkan untuk mendemostrasikan elemen grafis atau presentasi visual seperti font, tipografi, dan tata letak"
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "title": "ini data nya masuk",
+      "content": "data masuk berupa json",
+      "id": 9
+    },
+    {
+      "title": "halo semuanya",
+      "content": "ini adalah data pertama saya",
+      "id": 10
+    }
+  ]
+}
